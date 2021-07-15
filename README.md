@@ -10,11 +10,19 @@ pip install -r requirements.txt
 
 ## Run
 
+Console interface:
+
 ```
 python super_click.py
 ```
 
-## Run options
+Gui version:
+
+```
+python gui_click.py
+```
+
+## Command line options
 
 --delay, -d: delay in seconds for clicks
 
